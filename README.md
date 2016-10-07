@@ -1,0 +1,2 @@
+# fruits-demo
+simple collection
